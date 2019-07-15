@@ -1,0 +1,64 @@
+html, body, .container-fluid {
+    width: 100%;
+    background-color: black;
+}
+
+body {
+    padding: 0 15% 0 15%;
+}
+
+.black-bgc {
+    background-color: black;
+}
+
+.row .left .col-md-1 {
+    height: 50px;
+}
+
+.row .right .col-md-1 {
+    margin-top: 15px;
+    height: 20px;
+}
+
+#one, #two {
+    margin-right: 36px;
+}
+
+.jumbo {
+    height: 500px;
+}
+
+.col-md-2 {
+    height: 20px;
+    margin-top: 20px;
+}
+
+.col-md-5, .col-md-3 {
+    height: 200px;
+}
+
+.col-md-3 {
+    margin-left: 36px;
+}
+
+.bottom {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row {
+    padding: 10px 0 10px 0;
+}
+
+#large {
+    height: 50px;
+}
+
+/* .row .right-nav .col-md-1 {
+    height: 20px;
+    margin-top: 15px;
+}
+
+#uno, #dos {
+    margin-right: 36px;
+} */
